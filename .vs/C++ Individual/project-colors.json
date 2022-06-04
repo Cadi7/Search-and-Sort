@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6fea0892-259c-46ab-a764-98f4fd1f4e2f": {
+      "ProjectGuid": "6fea0892-259c-46ab-a764-98f4fd1f4e2f",
+      "DisplayName": "C++ Individual",
+      "ColorIndex": 0
+    },
+    "c521a04f-36f0-46ad-bd25-a03229de3c78": {
+      "ProjectGuid": "c521a04f-36f0-46ad-bd25-a03229de3c78",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

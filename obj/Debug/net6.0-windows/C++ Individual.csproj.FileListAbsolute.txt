@@ -1,0 +1,24 @@
+C:\Users\Cadi\source\repos\C++ Individual\bin\Debug\net6.0-windows\C++ Individual.exe
+C:\Users\Cadi\source\repos\C++ Individual\bin\Debug\net6.0-windows\C++ Individual.deps.json
+C:\Users\Cadi\source\repos\C++ Individual\bin\Debug\net6.0-windows\C++ Individual.runtimeconfig.json
+C:\Users\Cadi\source\repos\C++ Individual\bin\Debug\net6.0-windows\C++ Individual.dll
+C:\Users\Cadi\source\repos\C++ Individual\bin\Debug\net6.0-windows\ref\C++ Individual.dll
+C:\Users\Cadi\source\repos\C++ Individual\bin\Debug\net6.0-windows\C++ Individual.pdb
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.csproj.AssemblyReference.cache
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C___Individual.Form1.resources
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.csproj.GenerateResource.cache
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.AssemblyInfoInputs.cache
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.AssemblyInfo.cs
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.csproj.CoreCompileInputs.cache
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.dll
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\ref\C++ Individual.dll
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.pdb
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C++ Individual.genruntimeconfig.cache
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C___Individual.Sortare.resources
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C___Individual.Properties.Resources.resources
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C___Individual.Cautare.resources
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C___Individual.rezultat.resources
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C___Individual.rezultat2.resources
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C___Individual.rezultat3.resources
+C:\Users\Cadi\source\repos\C++ Individual\obj\Debug\net6.0-windows\C___Individual.rezultat4.resources
